@@ -19,9 +19,6 @@ Bluetooth Mode: Control the rover through the HC-05 module via an app on the sma
 
 Pathfinder Mode: Rover moves forward until it detects an obstacle in close proximity. It then backs up, scans its environment and finally moves in the direction with the least amount of obstruction.
 
-Below is a link to a YouTube video demonstating the movement (make sure to open the link in a new tab):
-
-[![Bluetooth Robot Car with Arduino](images/hyperlink_image.png)](https://www.youtube.com/watch?v=9ZBQKSbplVI "Bluetooth Robot Car with Arduino")
 
 
 ## Circuit
